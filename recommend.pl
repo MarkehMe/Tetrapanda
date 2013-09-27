@@ -1,6 +1,5 @@
 #! /usr/bin/perl
 use Net::LastFM;
-use Data::Dumper;
 
 die "Error: Please pass in your favourite artists on ARGV" unless @ARGV;
 
